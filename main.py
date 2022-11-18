@@ -22,7 +22,7 @@ for fn in range(len(new_name_list)):
               os.path.join(OUTPUT_FILE_PATH, new_name_list[fn]))
 
 # --------------------- CREATE AND WRITE TO EXCEL --------------------- #
-workbook = xlsxwriter.Workbook("number-code-score.xlsx")
+workbook = xlsxwriter.Workbook("id-alter-score.xlsx")
 worksheet = workbook.add_worksheet()
 worksheet.write('A1', 'ID Number')
 worksheet.write('B1', 'Code')
