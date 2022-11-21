@@ -25,7 +25,7 @@ for fn in range(len(new_name_list)):
 workbook = xlsxwriter.Workbook("id-alter-score.xlsx")
 worksheet = workbook.add_worksheet()
 worksheet.write('A1', 'ID Number')
-worksheet.write('B1', 'Code')
+worksheet.write('B1', 'Alternative number')
 worksheet.write('C1', 'Score')
 
 row = 1
