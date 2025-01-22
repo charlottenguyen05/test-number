@@ -127,7 +127,6 @@ And an Excel file (e.g., `Mapping.xlsx`) might look like:
 ## Acknowledgments :pray:
 
 - **Inspiration**: This project is inspired by the difficulties teachers face in manually masking IDs for fair grading. :school_satchel:
-- **Special Thanks**: To the teacher who shared this challenge, motivating the creation of this tool. :raised_hands:
 
 ---
 
