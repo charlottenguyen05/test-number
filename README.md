@@ -1,4 +1,4 @@
-# Test Number :sparkles:
+# Automated ID Generation for Fair Contest Grading :sparkles:
 
 <p align="center">
   <img src="https://i.gifer.com/origin/e6/e689257ceefe8a833c86d022de084df5.gif" width="400" alt="folder animation">
